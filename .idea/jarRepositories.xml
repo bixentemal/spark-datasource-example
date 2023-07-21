@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="deployment-snapshots" />
+      <option name="name" value="Pope snapshot repo for sarparserx artifacts" />
+      <option name="url" value="https://artifactory.fr.eu.airbus.corp:443/1Y40/R-1T77_sarparserx-snapshots_maven_L" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="r-1t77-datalab-maven-release-virtual" />
+      <option name="url" value="https://artifactory.2b82.aws.cloud.airbus.corp/artifactory/skywise-maven/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshots" />
+      <option name="name" value="r-1t77-datalab-maven-snapshot-virtual" />
+      <option name="url" value="https://artifactory.2b82.aws.cloud.airbus.corp/artifactory/skywise-maven/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="deployment-releases" />
+      <option name="name" value="Pope snapshot repo for sarparserx artifacts" />
+      <option name="url" value="https://artifactory.fr.eu.airbus.corp:443/1Y40/R-1T77_sarparserx-releases_maven_L" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="R-2K77_devops-public_maven_V" />
+      <option name="name" value="R-2K77_devops-public_maven_V" />
+      <option name="url" value="https://artifactory.fr.eu.airbus.corp/1Y40/R-2K77_devops-public_maven_V/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="1Y40_1T77_release" />
+      <option name="name" value="R-1T77_libs_maven_V" />
+      <option name="url" value="https://artifactory.fr.eu.airbus.corp:443/1Y40/R-1T77_libs_maven_V" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="R-2K77_releases_maven_L" />
+      <option name="name" value="R-2K77_releases_maven_L" />
+      <option name="url" value="https://artifactory.fr.eu.airbus.corp/1Y40/R-2K77_releases_maven_L/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="R-2K77_snapshots_maven_L" />
+      <option name="name" value="R-2K77_snapshots_maven_L" />
+      <option name="url" value="https://artifactory.fr.eu.airbus.corp:443/1Y40/R-2K77_snapshots_maven_L" />
+    </remote-repository>
+  </component>
+</project>
